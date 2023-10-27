@@ -14,7 +14,7 @@
     "start-remote": "vite --host"
   },
   "author": "Snowball Tools Inc.",
-  "license": "LGPL-3.0-or-later",
+  "license": "MIT",
   "dependencies": {
     "@shoelace-style/shoelace": "^2.4.0",
     "@thepassle/app-tools": "^0.9.9",
