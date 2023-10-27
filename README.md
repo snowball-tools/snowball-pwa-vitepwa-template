@@ -13,5 +13,3 @@ npm install
 ```sh
 npm start
 ```
-
-# snowball-pwa-vitepwa-template
